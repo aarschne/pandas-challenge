@@ -1,5 +1,9 @@
 # pandas-challenge
 Repository for pandas module
+
+#
+Used the starter code provided by bootcamp spot and made the adjustments necessary to get the code working
+
 # used https://stackoverflow.com/questions/37125174/accessing-every-1st-element-of-pandas-dataframe-column-containing-lists 
 # for finding the first item of a list in a column in a dataframe
 
